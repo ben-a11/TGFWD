@@ -27,3 +27,6 @@ services:
       - key: TELEGRAM_SESSION
         # value: TELEGRAM_SESSION
         sync: false
+      - key: SUDO_USERS
+        # value: SUDO_USERS
+        sync: false
