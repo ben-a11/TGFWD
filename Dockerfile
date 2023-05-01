@@ -10,4 +10,4 @@ COPY . /app
 
 #def cmd
 
-CMD python3 -m bot
+CMD ["bash", "start.sh"]
